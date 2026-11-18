@@ -1,0 +1,12 @@
+[Core]
+name = responsive_images
+module = responsive_images
+
+[Nikola]
+plugincategory = Task
+
+[Documentation]
+author = Your Name
+version = 1.0
+website = https://getnikola.com/
+description = Create resized copies (name-480w.jpg etc.) of images for use in srcset

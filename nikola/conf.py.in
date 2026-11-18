@@ -777,6 +777,10 @@ IMAGE_FOLDERS = {'images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400
 # IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
+# Create resized copies of images (photo-480w.jpg, ...) for responsive <img> tags.
+# RESPONSIVE_IMAGES = False
+# RESPONSIVE_IMAGE_WIDTHS = [480, 800, 1200, 1600]
+
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
 # #############################################################################

@@ -522,6 +522,8 @@ class Nikola:
             'HIDDEN_CATEGORIES': [],
             'HYPHENATE': False,
             'IMAGE_FOLDERS': {'images': ''},
+            'RESPONSIVE_IMAGES': False,
+            'RESPONSIVE_IMAGE_WIDTHS': [480, 800, 1200, 1600],
             'INDEX_DISPLAY_POST_COUNT': 10,
             'INDEX_FILE': 'index.html',
             'INDEX_TEASERS': False,
